@@ -2,7 +2,7 @@
 
 # Setup/Installation instructions:
 - Download/Clone repo
-- Install Live Server extension in VSCode or similar product to preview project in a browser or click this link for live demo:
+- Install Live Server extension in VSCode or similar product to preview project in a browser or click below to preview a live demo: <a href="https://walkersmith2.github.io/super-chainsaw/">Live Demo</a>
 
 ## Description:
 This is a chatbot for customers searching for a product. The chatbot will ask the user a series of questions and use the customer's answers to filter the list of available products in a database and present them to the user.
