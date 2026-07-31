@@ -2,7 +2,7 @@
 
 # Setup/Installation instructions:
 - Download/Clone repo
-- Install Live Server extension in VSCode or similar product to preview project in a browser or click below to preview a live demo:
+- Install Live Server extension in VSCode or similar product to preview project in a browser or click here for a live demo:
   <a href="https://walkersmith2.github.io/super-chainsaw/">Live Demo</a>
 
 ## Description:
